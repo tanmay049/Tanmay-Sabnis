@@ -386,7 +386,7 @@ article .icon {
     border-color: rgb(163, 163, 163);
     background: (250, 250, 250);
     margin: 2rem auto;
-    padding: 5rem;
+    padding: 2rem;
 }
 
 .contact-info-container {
@@ -414,11 +414,6 @@ article .icon {
 
 footer {
     height: 26vh;
-    margin: 0 1rem;
-}
-
-footer p {
-    text-align: 26vh;
     margin: 0 1rem;
 }
 
