@@ -35,7 +35,7 @@ nav{
 
 .nav-links{
     gap: 2rem;
-    list-style: none;
+    list-style: circle;
     font-size: 1.5rem;
 }
 
@@ -373,14 +373,14 @@ article .icon {
 /*contact*/
 #comtact {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     flex-direction: column;
     height: 70vh;
 }
 
 .contact-info-upper-container {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     border-radius: 2rem;
     border: rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163, 163, 163);
@@ -403,11 +403,10 @@ article .icon {
 
 .contact-icon {
     cursor: default;
-    height: 14rem;
 }
 
 .email-icon {
-    height: 16rem;
+    height: 2.5rem;
 }
 
 /*footer section*/
@@ -420,3 +419,6 @@ footer {
 footer p {
     text-align: center;
 }
+
+
+
